@@ -1,6 +1,6 @@
 # GUI_for_testers
 
-This program was written in order to provide more convenient environment for I/O Testers.
+This program was written in order to provide more convenient GUI for I/O Testers.
 
 How to use?
 

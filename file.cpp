@@ -1,1 +1,1 @@
-#Please enter "file.cpp" to start the tester.
+//Please enter "file.cpp" to start the tester.

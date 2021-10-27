@@ -1,1 +1,1 @@
-#THE is here
+#Please enter "file.cpp" to start the tester.
